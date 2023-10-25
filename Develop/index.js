@@ -65,7 +65,7 @@ const init = () => {
       const selectedLicense = licenses.find((license) => license.value === answers.license);
       let readmeContent = `# ${answers.title}
 
-    ![License: ${selectedLicense.name}(https://img.shields.io/badge/License-${selectedLicense.badge}-yellow.svg)](${selectedLicense.url})
+![License: ${selectedLicense.name}](https://img.shields.io/badge/License-${selectedLicense.badge}-yellow.svg)(${selectedLicense.url})
 
 ## Table of Contents
 
