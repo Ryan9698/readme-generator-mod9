@@ -1,6 +1,6 @@
 # README Generator
 
-[![License: MIT%20License](https://opensource.org/licenses/MIT)]
+      [![License: MIT_License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 ## Description
 
-This project was designed to allow a user to automatically generate a professional README file to use for their projects. It automatically creates sections and formats a README for the user by asking different prompts through node. I learned a lot about how node operates through the process of trial and error.
+This project was designed to automatically generate a professioonal README for users for their projects. I learned a lot about node and different methods through trial and error. This was a fun project to work on.
 
 ## Installation
 
@@ -22,7 +22,7 @@ N/A
 
 ## Usage
 
-To use this app, the user opens the terminal and types in "node index.js"
+To use this app, the user opens the terminal and enters "node index.js"
 
 ## Contributors
 
@@ -30,7 +30,7 @@ There were no other contributors for this project
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the license file for details.
+This project is licensed under the [MIT_License](https://opensource.org/licenses/MIT) - see the license file for details.
 
 ## Questions
 
@@ -40,4 +40,4 @@ or reach me by email: [rcaltabiano90@gmail.com](mailto:rcaltabiano90@gmail.com).
 
 ## Testing
 
-There were no additional tests on this app.
+There were no additional tests for this app
